@@ -29,8 +29,12 @@
 	padding-top: 100px;
 }
 
-.tiernumbers {
+.boxtitle {
 	color: #9F4A54 !important;
+}
+
+.btn-light {
+	background-color: #f4afb4 !important;
 }
 
 /*--------------------------------------------------------------
